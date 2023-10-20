@@ -1,0 +1,35 @@
+.form-container{
+    /* margin: 4rem 6rem;
+    color: #2a2a2a; */
+    background-image: url(https://images.unsplash.com/photo-1432847712612-926caafaa802?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8fA%3D%3D&w=1000&q=80);
+    width: 100%;
+    /* margin-top: 2rem;
+    margin-bottom: 2rem; */
+   
+}
+.form-container h1{
+    color: white;
+    font-size: 4rem;
+}
+.form-container form{
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin: auto;
+}
+.form-container input{
+    height: 3rem;
+    padding: 0 1rem;
+    margin-bottom: 2rem;
+    border-radius: 0.3rem;
+    border: 1px solid #2a2a2a;
+}
+.form-container textarea{
+    height: 3rem;
+    padding: 0 1rem;
+    margin-bottom: 2rem;
+    border-radius: 0.3rem;
+    border: 1px solid #2a2a2a;
+}
